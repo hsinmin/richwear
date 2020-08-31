@@ -3,7 +3,7 @@ RichWear Dataset + Revised Fashion550k Dataset
 # Data will be released upon the acceptance of our paper.
 
 ### RichWear Dataset
-321,698 images **year**: 2017-2019    **img size**:500x667
+321,698 images; **year**: 2017-2019    **img size**:500x667
 
 * `labels.txt`            #41 classes (clothing colors & categories & patterns)
 * `photos.txt`           #image filenames
