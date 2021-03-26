@@ -4,6 +4,12 @@ RichWear Dataset contains 321,698 images collected from wear.jp spanning from 20
 
 This dataset is suitable for analyzing street fashion trends or training fashion attribute recognition models. 
 
+Download the dataset here: http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz
+
+If you are using this dataset, please cite our work: <br>
+**Fu-Hsien Huang, Hsin-Min Lu, and Yao-Wen Hsu, (2021, Mar.). From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding, IEEE Access, Forthcoming, https://doi.org/10.1109/ACCESS.2021.3069245**
+
+In addition to RichWear, we also provide the [revised Fashion550K](https://github.com/hsinmin/fashion550k). Revised Fashion550K contain 4307 images with manully corrected labels. The label set in revised Fashion550K is competiable with that used in RichWear. 
 
 ----
 
@@ -27,11 +33,6 @@ This dataset is suitable for analyzing street fashion trends or training fashion
 
 Note that 'nan' denotes missing data.
 
-Download the dataset here: http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz
 
-If you are using this dataset, please consider citing our work: <br>
-**Fu-Hsien Huang, Hsin-Min Lu, and Yao-Wen Hsu, (2021, Mar.). From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding, IEEE Access, Forthcoming, https://doi.org/10.1109/ACCESS.2021.3069245**
-
- In addition to RichWear, consider the revised Fashion550K. https://github.com/hsinmin/fashion550k.
  
  
