@@ -5,10 +5,10 @@ RichWear Dataset
 
 * classes.txt           # 41 unique classes appeared in clothing patterns, colors, and categories
 
-* photos.txt            # List of image filenames
-                      # Note that the first 3,868 files are from the verified
-                      # subset in the following order: 3,043 training, 325 validation, and 500 test
-                      # images. The rest of images does not have verifed
+* photos.txt            # List of image filenames\
+                      # Note that the first 3,868 files are from the verified\
+                      # subset in the following order: 3,043 training, 325 validation, and 500 test\
+                      # images. The rest of images does not have verifed\
                       # labels. These images only have noisy labels.
 
 * date.txt              # Date uploaded to wear.jp (in the same order as photos.txt)
