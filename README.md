@@ -1,6 +1,7 @@
 RichWear Dataset
 =================
 321,698 images, year: 2017-2019, img size:500x667
+================
 
 classes.txt           # 41 unique classes appeared in clothing patterns, colors, and categories
 
