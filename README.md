@@ -23,6 +23,7 @@ RichWear Dataset
 
 Note that 'nan' denotes missing data.
 
+Download the dataset here: http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz
 
 
 
