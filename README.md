@@ -1,6 +1,6 @@
 RichWear Dataset
 =================
-RichWear Dataset contains 321,698 images collected from wear.jp spanning from 2017 to 2019. All images are of size 500x667 pixels. Each image is assocated with an date, gender of the character in the image, user-provided clothing brands, hashtags, colors, and categories. We also provide manually verified clothings patterns, colors, and categories of 3,868 images. 
+RichWear dataset contains 321,698 images collected from wear.jp spanning from 2017 to 2019. All images are of size 500x667 pixels. Each image is associated with a date, gender of the character in the image, user-provided clothing brands, hashtags, colors, and categories. We also provide manually verified clothing patterns, colors, and categories of 3,868 images. 
 
 This dataset is suitable for analyzing street fashion trends or training fashion attribute recognition models. 
 
@@ -9,7 +9,7 @@ Download the dataset here: http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.t
 If you are using this dataset, please cite our work: <br>
 **Fu-Hsien Huang, Hsin-Min Lu, and Yao-Wen Hsu, (2021, Mar.). From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding, IEEE Access, Forthcoming, https://doi.org/10.1109/ACCESS.2021.3069245**
 
-In addition to RichWear, we also provide the [revised Fashion550K](https://github.com/hsinmin/fashion550k). Revised Fashion550K contain 4307 images with manully corrected labels. The label set in revised Fashion550K is competiable with that used in RichWear. 
+In addition to RichWear, we also provide the [revised Fashion550K](https://github.com/hsinmin/fashion550k). Revised Fashion550K contains 4307 images with manually corrected labels. The label set in revised Fashion550K is compatible with that used in RichWear. 
 
 ----
 
