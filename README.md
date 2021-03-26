@@ -1,17 +1,17 @@
 RichWear Dataset
 =================
 321,698 images, year: 2017-2019, img size:500x667
-================
+============
 
-classes.txt           # 41 unique classes appeared in clothing patterns, colors, and categories
+* classes.txt           # 41 unique classes appeared in clothing patterns, colors, and categories
 
-photos.txt            # List of image filenames
+* photos.txt            # List of image filenames
                       # Note that the first 3,868 files are from the verified
                       # subset in the following order: 3,043 training, 325 validation, and 500 test
                       # images. The rest of images does not have verifed
                       # labels. These images only have noisy labels.
 
-date.txt              # Date uploaded to wear.jp (in the same order as photos.txt)
+* date.txt              # Date uploaded to wear.jp (in the same order as photos.txt)
 
 brands.txt            # Clothing brands (in the same order as photos.txt)
 
