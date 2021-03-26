@@ -32,4 +32,6 @@ Download the dataset here: http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.t
 If you are using this dataset, please consider citing our work: <br>
 **Fu-Hsien Huang, Hsin-Min Lu, and Yao-Wen Hsu, (2021, Mar.). From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding, IEEE Access, Forthcoming, https://doi.org/10.1109/ACCESS.2021.3069245**
 
-                                       
+ In addition to RichWear, consider the revised Fashion550K. https://github.com/hsinmin/fashion550k.
+ 
+ 
