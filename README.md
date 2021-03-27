@@ -1,6 +1,6 @@
 RichWear Dataset
 =================
-RichWear dataset contains 321,698 images collected from wear.jp spanning from 2017 to 2019. All images are of size 500x667 pixels. Each image is associated with a date, gender of the character in the image, user-provided clothing brands, hashtags, colors, and categories. We also provide manually verified clothing patterns, colors, and categories of 3,868 images. 
+RichWear dataset contains 321,698 street fashion images collected from wear.jp spanning from 2017 to 2019. All images are of size 500x667 pixels. Each image is associated with a date, gender of the character in the image, user-provided clothing brands, hashtags, colors, and categories. We also provide manually verified clothing patterns, colors, and categories of 3,868 images. 
 
 This dataset is suitable for analyzing street fashion trends or training fashion attribute recognition models. 
 
