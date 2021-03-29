@@ -33,6 +33,9 @@ In addition to RichWear, we also provide the [revised Fashion550K](https://githu
 
 Note that 'nan' denotes missing data.
 
+----
+Example images and their tags:
+![Example 0](examples/photo0.png)
 
  
  
