@@ -31,7 +31,7 @@ In addition to RichWear, we also provide the [revised Fashion550K](https://githu
 
 * `label_noisy.txt`       # User-provied noisy labels (in the same order as photos.txt).
 
-*`image_and_tag.ipynb`   # Example python program that displays images and their tags.
+* `image_and_tag.ipynb`   # Example python program that displays images and their tags.
 
 Note that 'nan' denotes missing data.
 
