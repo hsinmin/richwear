@@ -33,6 +33,8 @@ In addition to RichWear, we also provide the [revised Fashion550K](https://githu
 
 * `image_and_tag.ipynb`   # Example python program that displays images and their tags.
 
+* `photos'                * The folder containing all images.
+
 Note that 'nan' denotes missing data.
 
 ----
