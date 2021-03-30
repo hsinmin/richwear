@@ -9,6 +9,18 @@ Download the dataset here (30GB): [http://www.im.ntu.edu.tw/~lu/data/richwear/ri
 If you are using this dataset, please cite our work: <br>
 **Fu-Hsien Huang, Hsin-Min Lu, and Yao-Wen Hsu, (2021, Mar.). From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding, IEEE Access, Forthcoming, https://doi.org/10.1109/ACCESS.2021.3069245**
 
+<pre>
+@ARTICLE{IEEEACstreetphoto2021,  
+   author={F. -H. {Huang} and H. -M. {Lu} and Y. -W. {Hsu}},  
+   journal={IEEE Access},   
+   title={From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding},   
+   year={2021},  
+   volume={},  
+   number={},  
+   pages={1-1},  
+   doi={10.1109/ACCESS.2021.3069245}}
+</pre>
+
 In addition to RichWear, we also provide the [revised Fashion550K](https://github.com/hsinmin/revised_fashion550k). Revised Fashion550K contains 4307 images with manually corrected labels. The label set in revised Fashion550K is compatible with that used in RichWear. 
 
 ----
