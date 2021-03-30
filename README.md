@@ -4,7 +4,7 @@ RichWear dataset contains 321,698 street fashion images collected from wear.jp s
 
 This dataset is suitable for analyzing street fashion trends or training fashion attribute recognition models. 
 
-Download the dataset here (30GB): [http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz](http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz)
+Download the dataset here (30GB; Right click to save as): [http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz](http://www.im.ntu.edu.tw/~lu/data/richwear/richwear.tgz)
 
 If you are using this dataset, please cite our work: <br>
 **Fu-Hsien Huang, Hsin-Min Lu, and Yao-Wen Hsu, (2021, Mar.). From Street Photos to Fashion Trends: Leveraging User-Provided Noisy Labels for Fashion Understanding, IEEE Access, Forthcoming, https://doi.org/10.1109/ACCESS.2021.3069245**
