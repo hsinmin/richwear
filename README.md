@@ -55,7 +55,7 @@ Example images and their tags:
 
 ![Example 2000](examples/photo2000.png)
 
-![Example 3000](examples/photo3000.png)
+![Example 3000](examples/photo3302.png)
 
 ![Example 5000](examples/photo5000.png)
  
